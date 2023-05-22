@@ -6,10 +6,5 @@ wm -i3
 bar -polybar
 terminal -kitty
 
-
-i3 -
-kitty
-theme
-icons-
-wallpaper -
-firefox theme
+#Installation
+git clone
