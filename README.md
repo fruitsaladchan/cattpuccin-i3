@@ -6,5 +6,5 @@
 - bar -polybar
 - terminal -kitty
 
-#Installation
-git clone
+# Installation
+git clone https://github.com/fruitsaladchan/arch-i3-rice
