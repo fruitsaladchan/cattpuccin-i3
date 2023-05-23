@@ -1,4 +1,5 @@
-![Dot_Files(1)](https://github.com/fruitsaladchan/arch-i3-rice/assets/124645742/214b0fc6-01fa-4bd3-8844-84ad80b9f0ee)
+![Dot_Files](https://github.com/fruitsaladchan/arch-i3-rice/assets/124645742/e076bc07-0dae-42a0-8461-c2fec75f3291)
+
 
 
 # arch-i3-rice!
