@@ -7,7 +7,17 @@
 - os -EndeavourOS
 - wm -i3
 - bar -polybar
-- terminal - {here} https://github.com/kovidgoyal/kitty
+- terminal -  [kitty](https://github.com/kovidgoyal/kitty) <br />
+
+
 
 # Installation
 git clone https://github.com/fruitsaladchan/arch-i3-rice
+
+## stuff
+
+theme [here](https://github.com/KNY360/kgruvbox/blob/main/(GTKtheme)Gruvbox-Dark-B.tar.gz) <br />
+icon [here](https://github.com/SylEleuth/gruvbox-plus-icon-pack) <br />
+cursor
+firefox theme 
+
