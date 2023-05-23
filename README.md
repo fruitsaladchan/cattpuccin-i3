@@ -9,18 +9,18 @@ based this off the show Serial Experiments Lain
 
 
 ## ICONS
-["MB-Blueberry-Suru-Glow"](https://www.gnome-look.org/p/1333360/) <br />
+[here](https://www.gnome-look.org/p/1333360/) <br />
 extract in ~/.icons or usr/share/icons.
 <!-- Horizontal Lines -->
 <hr style="border-top: 3px dotted #998143">
 
 ## WALLPAPER
-[Copland oS](https://i.imgur.com/bMz5swo.jpg) <br />
+[here](https://i.imgur.com/bMz5swo.jpg) <br />
 <!-- Horizontal Lines -->
 <hr style="border-top: 3px dotted #998143">
 
 ## WINDOW THEME
-[R9X](https://www.xfce-look.org/p/1016332/) <br />
+[here](https://www.xfce-look.org/p/1016332/) <br />
 Extract ~/.themes or /usr/share/themes 
 <!-- Horizontal Lines -->
 <hr style="border-top: 3px dotted #998143">
