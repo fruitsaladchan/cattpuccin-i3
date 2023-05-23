@@ -7,9 +7,8 @@ based this off the show Serial Experiments Lain
 <!-- Horizontal Lines -->
 <hr style="border-top: 3px dotted #998143">
 
-<!-- Horizontal Lines -->
-<hr style="border-top: 3px dotted #998143">
-=====ICON THEME=======
+
+# ICONS
 ["MB-Blueberry-Suru-Glow"](https://www.gnome-look.org/p/1333360/) <br />
 <!-- Horizontal Lines -->
 
