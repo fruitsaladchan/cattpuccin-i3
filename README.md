@@ -4,7 +4,7 @@
 
 # arch-i3-rice!
 
-- os -EndeavourOS
+- os -[EndeavourOS](https://endeavouros.com/) <br />
 - wm -i3
 - bar -polybar
 - terminal -  [kitty](https://github.com/kovidgoyal/kitty) <br />
