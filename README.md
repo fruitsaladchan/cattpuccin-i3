@@ -6,8 +6,8 @@
 
 - os -[EndeavourOS](https://endeavouros.com/) <br />
 - wm -i3
-- bar -polybar
-- terminal -  [kitty](https://github.com/kovidgoyal/kitty) <br />
+- bar - [pollybar](https://github.com/polybar/polybar) <br />
+- terminal - [kitty](https://github.com/kovidgoyal/kitty) <br />
 
 
 
