@@ -1,20 +1,17 @@
 ![Dot_Files](https://github.com/fruitsaladchan/arch-i3-rice/assets/124645742/e076bc07-0dae-42a0-8461-c2fec75f3291)
 
+# Copland OS 
 
+based this off the show Serial Experiments Lain
 
-# arch-i3-rice!
+<!-- Horizontal Lines -->
+<hr style="border-top: 3px dotted #998143">
 
-- os -[EndeavourOS](https://endeavouros.com/) <br />
-- wm -i3
-- bar - [pollybar](https://github.com/polybar/polybar) <br />
-- terminal - [kitty](https://github.com/kovidgoyal/kitty) <br />
+<!-- Horizontal Lines -->
+<hr style="border-top: 3px dotted #998143">
+=====ICON THEME=======
+["MB-Blueberry-Suru-Glow"](https://www.gnome-look.org/p/1333360/) <br />
+<!-- Horizontal Lines -->
 
-## stuff
-
-- theme [here](https://github.com/KNY360/kgruvbox/blob/main/(GTKtheme)Gruvbox-Dark-B.tar.gz) <br />
-- icon [here](https://github.com/SylEleuth/gruvbox-plus-icon-pack) <br />
-- cursor
-- firefox theme [here](https://addons.mozilla.org/en-US/firefox/addon/gruvboxgruvboxgruvboxgruvboxgr/) <br />
-
-# Installation
-git clone https://github.com/fruitsaladchan/arch-i3-rice
+<hr style="border-top: 3px dotted #998143">
+[wallpaper](https://i.imgur.com/bMz5swo.jpg) <br />
