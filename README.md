@@ -9,15 +9,12 @@
 - bar - [pollybar](https://github.com/polybar/polybar) <br />
 - terminal - [kitty](https://github.com/kovidgoyal/kitty) <br />
 
+## stuff
 
+- theme [here](https://github.com/KNY360/kgruvbox/blob/main/(GTKtheme)Gruvbox-Dark-B.tar.gz) <br />
+- icon [here](https://github.com/SylEleuth/gruvbox-plus-icon-pack) <br />
+- cursor
+- firefox theme [here](https://addons.mozilla.org/en-US/firefox/addon/gruvboxgruvboxgruvboxgruvboxgr/) <br />
 
 # Installation
 git clone https://github.com/fruitsaladchan/arch-i3-rice
-
-## stuff
-
-theme [here](https://github.com/KNY360/kgruvbox/blob/main/(GTKtheme)Gruvbox-Dark-B.tar.gz) <br />
-icon [here](https://github.com/SylEleuth/gruvbox-plus-icon-pack) <br />
-cursor
-firefox theme [here](https://addons.mozilla.org/en-US/firefox/addon/gruvboxgruvboxgruvboxgruvboxgr/) <br />
-
