@@ -5,8 +5,8 @@
 based off show Serial Experiments Lain
 
 
-- os [EndeavourOS](https://endeavouros.com/) <br />
-- de xfce
+- os - [EndeavourOS](https://endeavouros.com/) <br />
+- de - xfce
 
 
 
