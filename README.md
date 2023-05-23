@@ -2,7 +2,7 @@
 
 # Copland OS 
 
-based this off the show Serial Experiments Lain
+based off show Serial Experiments Lain
 
 <!-- Horizontal Lines -->
 <hr style="border-top: 3px dotted #998143">
@@ -31,3 +31,27 @@ You can change it on "/usr/lib/os-release" to Copland OS Enterprise
 <hr style="border-top: 3px dotted #998143">
 
 ## NEOFETCH
+
+   @
+           ###
+        #### #### 
+      ###       ###
+     ###   ###   ###
+    ###   #####   ###
+    ###  #######  ###
+    ###   #####   ###
+     ###   ###   ###
+      ###       ###
+     @   ##   ##   @
+         ##   ##
+         ##   ##
+         ##   ##
+   ###   ##   ##   ###
+   ########   ########
+     ######   ######
+     
+    
+   copy ascii in 
+   
+<!-- Horizontal Lines -->
+<hr style="border-top: 3px dotted #998143">
