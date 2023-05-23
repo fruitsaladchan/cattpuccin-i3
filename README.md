@@ -7,7 +7,9 @@
 - os -EndeavourOS
 - wm -i3
 - bar -polybar
-- terminal - [https://img.shields.io/appveyor/build/yes/https://github.com/kovidgoyal/kitty](https://img.shields.io/appveyor/build/kovidgoyal/https://github.com/kovidgoyal/kitty)
+- terminal - 
+- 
+- [https://img.shields.io/appveyor/build/yes/https://github.com/kovidgoyal/kitty](https://img.shields.io/appveyor/build/kovidgoyal/https://github.com/kovidgoyal/kitty)
 
 # Installation
 git clone https://github.com/fruitsaladchan/arch-i3-rice
