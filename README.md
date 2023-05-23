@@ -7,7 +7,7 @@
 - os -EndeavourOS
 - wm -i3
 - bar -polybar
-- terminal -kitty
+- terminal - {here} https://github.com/kovidgoyal/kitty
 
 # Installation
 git clone https://github.com/fruitsaladchan/arch-i3-rice
