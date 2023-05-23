@@ -19,5 +19,5 @@ git clone https://github.com/fruitsaladchan/arch-i3-rice
 theme [here](https://github.com/KNY360/kgruvbox/blob/main/(GTKtheme)Gruvbox-Dark-B.tar.gz) <br />
 icon [here](https://github.com/SylEleuth/gruvbox-plus-icon-pack) <br />
 cursor
-firefox theme 
+firefox theme [here](https://addons.mozilla.org/en-US/firefox/addon/gruvboxgruvboxgruvboxgruvboxgr/) <br />
 
