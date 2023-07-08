@@ -1,8 +1,19 @@
 # **endeavour os rice**
 
+# **Brave**
 ![2023-07-07_23-12](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/d1ba3aeb-3819-4eec-b1ed-6ac2f8f09714)
+
+
 ![2023-07-07_23-08](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/4c8aac51-fd86-4fd0-9cc1-804eba84da66)
+
+
 ![2023-07-07_22-57](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/9adb5f11-59ab-421c-a584-78d1b9e13d58)
+
+![2023-07-08_00-17](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/eded8b5f-c32d-484e-9454-50a5f0ad560b)
+
+
+![2023-07-07_22-56](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/cefa807f-7271-476d-91a1-415fcefe07f0)
+
 
 
 - OS - [endeavour OS](https://endeavouros.com/)
