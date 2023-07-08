@@ -1,4 +1,4 @@
-# endeavour os rice
+### **endeavour os rice**
 
 - os: EndeavourOS
 - wm: i3
@@ -15,7 +15,7 @@
 - icons theme: kora
 - theme: nordic
 
-- 	**other stuff**
+###**other stuff**
 
 - lighting - [openRGB](https://aur.archlinux.org/packages/openrgb)
 - spicetify
