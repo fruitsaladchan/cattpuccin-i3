@@ -17,8 +17,8 @@
 
 - 	**other stuff**
 
-- [openRGB](https://aur.archlinux.org/packages/openrgb)
-- lighting - spicetify
+- lighting - [openRGB](https://aur.archlinux.org/packages/openrgb)
+- spicetify
 - pokemon-colorscripts
 - pipes.sh
 - cmatrix
