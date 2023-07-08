@@ -15,12 +15,12 @@
 - icons theme: kora
 - theme: nordic
 
-- other stuff:
-     
-     - openRGB,
-     - spicetify
-     • pokemon-colorscripts
-     • pipes.sh
-     • cmatrix
-     • vs-code
-     • feh   
+- 	**other stuff**
+
+- [openRGB](https://aur.archlinux.org/packages/openrgb)
+- spicetify
+- pokemon-colorscripts
+- pipes.sh
+- cmatrix
+- vs-code
+- feh   
