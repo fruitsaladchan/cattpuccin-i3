@@ -15,6 +15,9 @@
 # **neofetch + spicetify + gotop**
 ![2023-07-07_22-56](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/cefa807f-7271-476d-91a1-415fcefe07f0)
 
+# **Workflow**
+![2023-07-08_00-27](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/9ca2b1c8-772e-449e-8e62-78a2a3f2b400)
+
 
 
 - OS - [endeavour OS](https://endeavouros.com/)
