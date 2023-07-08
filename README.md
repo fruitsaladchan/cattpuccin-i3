@@ -17,10 +17,10 @@
 
 - other stuff:
      
-     •openRGB,
+     • openRGB,
      • spicetify
      • pokemon-colorscripts
      • pipes.sh
      • cmatrix
      • vs-code
-        
+     • feh   
