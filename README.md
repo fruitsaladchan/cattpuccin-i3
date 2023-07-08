@@ -16,5 +16,6 @@
 - system monitor: gotop 
 - icons theme: kora
 - theme: nordic
-- other stuff: openRGB,spicetify
+- other stuff: openRGB,spicetify,pokemon-colorscripts
+
   
