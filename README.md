@@ -1,8 +1,8 @@
 # **endeavour os rice**
 
-- os: EndeavourOS
+- OS - [endeavour OS](https://endeavouros.com/)
 - wm: i3
-- bar: polybar
+- bar - [Polybar](https://github.com/polybar/polybar)
 - browser: brave
 - shell: fish
 - terminal: kitty
