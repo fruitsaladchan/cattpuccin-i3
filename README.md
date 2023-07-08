@@ -18,9 +18,9 @@
 # **Other Stuff**
 
 - lighting - [openRGB](https://aur.archlinux.org/packages/openrgb)
-- spicetify
-- pokemon-colorscripts
-- pipes.sh
-- cmatrix
+- spicetify - [openRGB](https://spicetify.app/)
+- pokemon-colorscripts [openRGB](https://gitlab.com/phoneybadger/pokemon-colorscripts)
+- pipes.sh - [openRGB](https://github.com/pipeseroni/pipes.sh)
+- cmatrix - [openRGB](https://github.com/abishekvashok/cmatrix)
 - vs-code
-- feh   
+- feh - [Wallpaper](https://github.com/derf/feh)
