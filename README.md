@@ -14,6 +14,13 @@
 - system monitor: gotop 
 - icons theme: kora
 - theme: nordic
-- other stuff: openRGB,spicetify,pokemon-colorscripts,pipes.sh,cmatrix
 
-  
+- other stuff:
+     
+     •openRGB,
+     • spicetify
+     • pokemon-colorscripts
+     • pipes.sh
+     • cmatrix
+     • vs-code
+        
