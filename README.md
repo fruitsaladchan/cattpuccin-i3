@@ -7,13 +7,13 @@
 - shell: [fish](https://github.com/fish-shell/fish-shell)
 - terminal: [kitty](https://github.com/kovidgoyal/kitty)
 - editor: vim
-- file manager: ranger
-- notifications: dunst
-- compositor: picom
-- app launcher: rofi
-- system monitor: gotop 
-- icons theme: kora
-- theme: nordic
+- file manager: [ranger](https://github.com/ranger/ranger)
+- notifications: [dunst](https://github.com/dunst-project/dunst)
+- compositor: [picom](https://github.com/yshui/picom)
+- app launcher: [rofi](https://github.com/davatorium/rofi)
+- system monitor: [gotop](https://github.com/xxxserxxx/gotop)
+- icons theme: [kora](https://github.com/bikass/kora)
+- theme: [nordic darker](https://github.com/EliverLara/Nordic)
 
 # **Other Stuff**
 
