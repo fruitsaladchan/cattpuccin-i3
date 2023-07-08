@@ -15,7 +15,7 @@
 - icons theme: kora
 - theme: nordic
 
-#**other stuff**
+# **Other Stuff**
 
 - lighting - [openRGB](https://aur.archlinux.org/packages/openrgb)
 - spicetify
