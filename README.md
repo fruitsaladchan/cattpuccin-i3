@@ -1,11 +1,11 @@
 # **endeavour os rice**
 
 - OS - [endeavour OS](https://endeavouros.com/)
-- wm: i3
+- wm: [i3](https://github.com/i3/i3)
 - bar - [Polybar](https://github.com/polybar/polybar)
-- browser: brave
-- shell: fish
-- terminal: kitty
+- browser: [brave](https://aur.archlinux.org/packages/brave)
+- shell: [fish](https://github.com/fish-shell/fish-shell)
+- terminal: [kitty](https://github.com/kovidgoyal/kitty)
 - editor: vim
 - file manager: ranger
 - notifications: dunst
