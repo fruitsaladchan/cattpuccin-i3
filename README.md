@@ -1,5 +1,3 @@
-![endeavour os rice]
-
 # endeavour os rice
 
 - os: EndeavourOS
@@ -16,6 +14,6 @@
 - system monitor: gotop 
 - icons theme: kora
 - theme: nordic
-- other stuff: openRGB,spicetify,pokemon-colorscripts
+- other stuff: openRGB,spicetify,pokemon-colorscripts,pipes.sh,cmatrix
 
   
