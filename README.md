@@ -17,8 +17,8 @@
 
 - other stuff:
      
-     • openRGB,
-     • spicetify
+     - openRGB,
+     - spicetify
      • pokemon-colorscripts
      • pipes.sh
      • cmatrix
