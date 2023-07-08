@@ -6,13 +6,13 @@
 # **pokemon-colorscripts + pipes.sh + cmatrix**
 ![2023-07-07_23-08](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/4c8aac51-fd86-4fd0-9cc1-804eba84da66)
 
-# **endeavour os rice**
+# **wallpaper**
 ![2023-07-07_22-57](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/9adb5f11-59ab-421c-a584-78d1b9e13d58)
 
-# **endeavour os rice**
+# **dunst + rofi**
 ![2023-07-08_00-17](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/eded8b5f-c32d-484e-9454-50a5f0ad560b)
 
-# **endeavour os rice**
+# **neofetch + spicetify**
 ![2023-07-07_22-56](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/cefa807f-7271-476d-91a1-415fcefe07f0)
 
 
