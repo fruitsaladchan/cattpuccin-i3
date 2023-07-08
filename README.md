@@ -18,9 +18,9 @@
 # **Other Stuff**
 
 - lighting - [openRGB](https://aur.archlinux.org/packages/openrgb)
-- spicetify - [openRGB](https://spicetify.app/)
-- pokemon-colorscripts [openRGB](https://gitlab.com/phoneybadger/pokemon-colorscripts)
-- pipes.sh - [openRGB](https://github.com/pipeseroni/pipes.sh)
-- cmatrix - [openRGB](https://github.com/abishekvashok/cmatrix)
+- spicetify - [To Customize Spotify](https://spicetify.app/)
+- pokemon-colorscripts [CLI utility to print out images of pokemon to terminal](https://gitlab.com/phoneybadger/pokemon-colorscripts)
+- pipes.sh - [Animated pipes terminal screensaver](https://github.com/pipeseroni/pipes.sh)
+- cmatrix - [Matrix Screensaver](https://github.com/abishekvashok/cmatrix)
 - vs-code
-- feh - [Wallpaper](https://github.com/derf/feh)
+- feh - [Used For Wallpaper](https://github.com/derf/feh)
