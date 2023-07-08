@@ -1,5 +1,11 @@
 # **endeavour os rice**
 
+![2023-07-07_23-12](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/d1ba3aeb-3819-4eec-b1ed-6ac2f8f09714)
+![2023-07-07_23-08](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/4c8aac51-fd86-4fd0-9cc1-804eba84da66)
+![2023-07-07_22-57](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/9adb5f11-59ab-421c-a584-78d1b9e13d58)
+![2023-07-07_22-56](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/d70dbca5-8f26-4046-bbcf-51f66bccd1d0)
+
+
 - OS - [endeavour OS](https://endeavouros.com/)
 - wm: [i3](https://github.com/i3/i3)
 - bar - [Polybar](https://github.com/polybar/polybar)
