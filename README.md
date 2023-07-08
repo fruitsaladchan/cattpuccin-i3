@@ -12,7 +12,7 @@
 # **dunst + rofi**
 ![2023-07-08_00-17](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/eded8b5f-c32d-484e-9454-50a5f0ad560b)
 
-# **neofetch + spicetify**
+# **neofetch + spicetify + gotop**
 ![2023-07-07_22-56](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/cefa807f-7271-476d-91a1-415fcefe07f0)
 
 
