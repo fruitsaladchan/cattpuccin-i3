@@ -46,3 +46,4 @@
 - feh - [Used For Wallpaper](https://github.com/derf/feh)
 - wallpaper - https://unsplash.com/photos/mhS1fcL396w
 - brave wallpaper - https://www.reddit.com/r/nordtheme/comments/kp7rhk/one_of_my_favorite_nordthemed_wallpapers_had_a/
+- cava - https://github.com/karlstav/cava
