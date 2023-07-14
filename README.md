@@ -1,22 +1,13 @@
 # **endeavour os rice**
 
 # **Brave**
-![2023-07-07_23-12](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/d1ba3aeb-3819-4eec-b1ed-6ac2f8f09714)
 
-# **pokemon-colorscripts + pipes.sh + cmatrix**
-![2023-07-07_23-08](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/4c8aac51-fd86-4fd0-9cc1-804eba84da66)
-
-# **wallpaper**
-![2023-07-07_22-57](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/9adb5f11-59ab-421c-a584-78d1b9e13d58)
-
-# **dunst + rofi**
-![2023-07-08_00-17](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/eded8b5f-c32d-484e-9454-50a5f0ad560b)
-
-# **neofetch + spicetify + gotop**
-![2023-07-07_22-56](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/cefa807f-7271-476d-91a1-415fcefe07f0)
-
-# **Workflow**
-![2023-07-08_00-27](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/9ca2b1c8-772e-449e-8e62-78a2a3f2b400)
+![2023-07-14_14-44](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/76d065fc-fb90-48be-b774-81ce5b159799)
+![2023-07-14_14-38](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/df46c70f-4976-419c-b64f-9d1150530210)
+![2023-07-14_14-37](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/ff6a7047-6571-4ea8-92ef-eebbe837f00b)
+![2023-07-14_14-36_1](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/b24a6ddc-f307-4ea7-93ae-8f683396038d)
+![2023-07-14_14-36](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/ae530ec1-bd11-4881-9f87-599baf3225ac)
+![2023-07-14_14-26](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/d38c6425-e1f6-4f12-a142-2e4c6b1b0631)
 
 
 
