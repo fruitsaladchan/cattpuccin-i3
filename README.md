@@ -3,19 +3,19 @@
 # **workflow - vim + cava + pfetch**
 ![2023-07-14_14-44](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/76d065fc-fb90-48be-b774-81ce5b159799)
 
-**Brave**
+# **Brave**
 ![2023-07-14_14-38](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/df46c70f-4976-419c-b64f-9d1150530210)
 
-**Btm**
+# **Btm**
 ![2023-07-14_14-37](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/ff6a7047-6571-4ea8-92ef-eebbe837f00b)
 
-**Desktop**
+# **Desktop**
 ![2023-07-14_14-36_1](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/b24a6ddc-f307-4ea7-93ae-8f683396038d)
 
-**Rofi + dunst**
+# **Rofi + dunst**
 ![2023-07-14_14-36](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/ae530ec1-bd11-4881-9f87-599baf3225ac)
 
-**neofetch + pokemon colorscript + cmatrix**
+# **neofetch + pokemon colorscript + cmatrix**
 ![2023-07-14_14-26](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/d38c6425-e1f6-4f12-a142-2e4c6b1b0631)
 
 
