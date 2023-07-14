@@ -9,7 +9,7 @@
 # **Btm**
 ![2023-07-14_14-37](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/ff6a7047-6571-4ea8-92ef-eebbe837f00b)
 
-# **Desktop**
+# **Desktop + Polybar**
 ![2023-07-14_14-36_1](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/b24a6ddc-f307-4ea7-93ae-8f683396038d)
 
 # **Rofi + dunst**
