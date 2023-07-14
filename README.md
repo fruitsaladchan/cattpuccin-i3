@@ -42,7 +42,7 @@
 - pokemon-colorscripts [CLI utility to print out images of pokemon to terminal](https://gitlab.com/phoneybadger/pokemon-colorscripts)
 - pipes.sh - [Animated pipes terminal screensaver](https://github.com/pipeseroni/pipes.sh)
 - cmatrix - [Matrix Screensaver](https://github.com/abishekvashok/cmatrix)
-- vs-code
+- IDE - vs-code
 - feh - [Used For Wallpaper](https://github.com/derf/feh)
 - wallpaper - https://unsplash.com/photos/mhS1fcL396w
 - brave wallpaper - https://www.reddit.com/r/nordtheme/comments/kp7rhk/one_of_my_favorite_nordthemed_wallpapers_had_a/
