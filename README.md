@@ -6,7 +6,7 @@
 # **Brave**
 ![2023-07-14_14-38](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/df46c70f-4976-419c-b64f-9d1150530210)
 
-# **Btm**
+# **Bottm**
 ![2023-07-14_14-37](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/ff6a7047-6571-4ea8-92ef-eebbe837f00b)
 
 # **Desktop + Polybar**
@@ -31,7 +31,7 @@
 - notifications: [dunst](https://github.com/dunst-project/dunst)
 - compositor: [picom](https://github.com/yshui/picom)
 - app launcher: [rofi](https://github.com/davatorium/rofi)
-- system monitor: [gotop](https://github.com/xxxserxxx/gotop)
+- system monitor: [bottom](https://github.com/ClementTsang/bottom)
 - icons theme: [kora](https://github.com/bikass/kora)
 - theme: [nordic darker](https://github.com/EliverLara/Nordic)
 
