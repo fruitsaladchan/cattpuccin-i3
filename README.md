@@ -7,7 +7,7 @@
 ![2023-07-14_14-38](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/df46c70f-4976-419c-b64f-9d1150530210)
 
 # **Bottm**
-![2023-07-14_14-37](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/ff6a7047-6571-4ea8-92ef-eebbe837f00b)
+![2023-07-19_17-31](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/a8527ba0-a168-415e-be23-f4beacc5d248)
 
 # **Desktop + Polybar**
 ![2023-07-14_14-36_1](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/b24a6ddc-f307-4ea7-93ae-8f683396038d)
