@@ -1,4 +1,4 @@
-# **endeavour os rice**
+# **endeavour-os + i3  rice**
 
 # **workflow - vim + cava + pfetch**
 ![2023-07-14_14-44](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/76d065fc-fb90-48be-b774-81ce5b159799)
