@@ -1,4 +1,4 @@
-# **endeavour-os + i3  rice**
+# **Arch i3wm rice**
 
 # **workflow - vim + cava + pfetch**
 ![2023-07-14_14-44](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/76d065fc-fb90-48be-b774-81ce5b159799)
@@ -31,13 +31,13 @@
 - compositor: [pijulius picom](https://github.com/pijulius/picom)
 - app launcher: Rofi
 - system monitor: [btop](https://github.com/aristocratos/btop)
+- color scheme: [catppuccin](https://github.com/catppuccin/catppuccin)
   
 
 # **Other Stuff**
 
 - spicetify - [To Customize Spotify](https://spicetify.app/)
-- pokemon-colorscripts [CLI utility to print out images of pokemon to terminal](https://gitlab.com/phoneybadger/pokemon-colorscripts)
 - pipes.sh - [Animated pipes terminal screensaver](https://github.com/pipeseroni/pipes.sh)
 - cmatrix - [Matrix Screensaver](https://github.com/abishekvashok/cmatrix)
 - feh - [Used For Wallpaper](https://github.com/derf/feh)
-- wallpaper - https://unsplash.com/photos/mhS1fcL396w
+- wallpaper - https://wallhaven.cc/w/28v3mm
