@@ -1,23 +1,25 @@
 # **Arch i3wm rice**
 
-# **workflow - vim + cava + pfetch**
-![2023-07-14_14-44](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/76d065fc-fb90-48be-b774-81ce5b159799)
+# **i3wm **
+![2023-10-30_21-10](https://github.com/fruitsaladchan/Archi3-rice/assets/124645742/2248d01b-1c6a-4272-b6b3-2196510ffd66)
 
-# **Brave**
-![2023-07-14_14-38](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/df46c70f-4976-419c-b64f-9d1150530210)
-
-# **Bottm**
-![2023-07-19_17-31](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/a8527ba0-a168-415e-be23-f4beacc5d248)
+# **nvim**
+![2023-10-30_21-03](https://github.com/fruitsaladchan/Archi3-rice/assets/124645742/24f06596-138d-4dbd-87b6-7d14b39a9b19)
 
 # **Desktop + Polybar**
-![2023-07-14_14-36_1](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/b24a6ddc-f307-4ea7-93ae-8f683396038d)
+![2023-10-30_20-39](https://github.com/fruitsaladchan/Archi3-rice/assets/124645742/792594d6-7bf7-4298-8878-26132d054b33)
+
 
 # **Rofi + dunst**
-![2023-07-14_14-36](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/ae530ec1-bd11-4881-9f87-599baf3225ac)
+![2023-10-30_21-13](https://github.com/fruitsaladchan/Archi3-rice/assets/124645742/d581f56e-30c8-4b28-bd79-05d4403727c7)
 
-# **neofetch + pokemon colorscript + cmatrix**
-![2023-07-14_14-26](https://github.com/fruitsaladchan/endeavour-os-rice/assets/124645742/d38c6425-e1f6-4f12-a142-2e4c6b1b0631)
 
+# **Power menu**
+![2023-10-30_21-14](https://github.com/fruitsaladchan/Archi3-rice/assets/124645742/83a515f7-c668-4eac-8902-23986b152614)
+
+
+# **btop**
+![2023-10-30_21-06](https://github.com/fruitsaladchan/Archi3-rice/assets/124645742/e5715949-86ea-4e4f-95d1-4a315113f364)
 
 
 - OS - Arch :3
