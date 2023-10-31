@@ -26,7 +26,7 @@
 - browser: ungoogled chromium
 - shell: Zsh + oh-my-zsh
 - terminal: kitty
-- editor: nvim
+- editor: nvim/nvchad
 - notifications: Dunst
 - compositor: [pijulius picom](https://github.com/pijulius/picom)
 - app launcher: Rofi
