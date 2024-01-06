@@ -26,7 +26,6 @@
 - wm: i3wm
 - bar - Polybar
 - browser: ungoogled chromium
-- shell: Zsh + oh-my-zsh
 - terminal: kitty
 - editor: nvim/nvchad
 - notifications: Dunst
@@ -34,12 +33,14 @@
 - app launcher: Rofi
 - system monitor: [btop](https://github.com/aristocratos/btop)
 - color scheme: [catppuccin](https://github.com/catppuccin/catppuccin)
-  
+- music - spotify/spicetify
 
-# **Other Stuff**
 
-- spicetify - [To Customize Spotify](https://spicetify.app/)
-- pipes.sh - [Animated pipes terminal screensaver](https://github.com/pipeseroni/pipes.sh)
-- cmatrix - [Matrix Screensaver](https://github.com/abishekvashok/cmatrix)
-- feh - [Used For Wallpaper](https://github.com/derf/feh)
-- wallpaper - https://wallhaven.cc/w/28v3mm
+# **dependencies**
+
+Shure Tech Mono Nerd Font Complete.ttf
+Kora
+kora-light
+kora-light-panel
+Catppuccin-Mocha-Light-Cursors
+Catppuccin-Mocha-Dark-Cursors
