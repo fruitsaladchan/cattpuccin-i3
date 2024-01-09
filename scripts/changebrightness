@@ -1,0 +1,46 @@
+#!/bin/bash
+
+# Use brightnessctl to logarithmically adjust laptop screen brightness
+# and send a notification displaying the current brightness level after.
+
+send_notification() {
+    local brightness
+    brightness=$(printf "%.0f\n" "$(brightnessctl g)")
+
+    # Create a brightness bar (you can customize the appearance)
+    bar=$(seq -s "─" 0 $((brightness / 5)) | sed 's/[0-9]//g')
+
+    dunstify -a "changebrightness" -u low -r 9993 -i "brightness" \
+        "Brightness" "Currently at $brightness%" \
+        -h string:x-dunst-stack-tag:brightness_bar \
+        -h string:x-dunst-stack-tag:brightness_bar \
+        -h int:value:"$brightness" \
+        -h string:synchronous:"brightness_bar" \
+        -h string:message-x-offset:40 \
+        -h int:transient:1 \
+        -t 2000 <<< "$bar"
+}
+
+increase_brightness() {
+    light -A  $changevalue > /dev/null
+    send_notification
+}
+
+decrease_brightness() {
+    light -U $changevalue > /dev/null
+    send_notification
+}
+
+case $1 in
+    up)
+        increase_brightness
+        ;;
+    down)
+        decrease_brightness
+        ;;
+    *)
+        echo "Usage: $0 {up|down}" >&2
+        exit 1
+        ;;
+esac
+
