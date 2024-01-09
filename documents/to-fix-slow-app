@@ -1,0 +1,1 @@
+sudo pacman -Rdd xdg-desktop-portal xdg-desktop-portal-xapp 
