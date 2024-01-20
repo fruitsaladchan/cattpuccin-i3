@@ -37,10 +37,9 @@
 
 
 # **dependencies**
-
-Shure Tech Mono Nerd Font Complete.ttf
-Kora
-kora-light
-kora-light-panel
-Catppuccin-Mocha-Light-Cursors
-Catppuccin-Mocha-Dark-Cursors
+* Shure Tech Mono Nerd Font Complete.ttf
+* Kora
+* kora-light
+* kora-light-panel
+* Catppuccin-Mocha-Light-Cursors
+* Catppuccin-Mocha-Dark-Cursors
