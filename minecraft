@@ -1,0 +1,5 @@
+ssh
+docker ps
+docker exec ------ -it bash
+cd /games/mcserver/
+./start.sh
