@@ -2,7 +2,7 @@
 
 i stopped updating this as i switched to dwm
 
-# **i3wm **
+# **i3**
 ![2023-10-30_21-10](https://github.com/fruitsaladchan/Archi3-rice/assets/124645742/2248d01b-1c6a-4272-b6b3-2196510ffd66)
 
 # **nvim**
