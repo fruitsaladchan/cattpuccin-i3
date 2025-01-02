@@ -41,8 +41,8 @@ get_icon() {
     echo $icon
 }
 
-KEY="506e3f6cec9c83701d4919ebd5ae7e35"
-CITY="mississauga"
+KEY=""
+CITY=""
 UNITS="metric"
 SYMBOL="°"
 
